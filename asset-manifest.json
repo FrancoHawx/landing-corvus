@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/landing-corvus/static/css/main.4a86043f.chunk.css",
+    "main.js": "/landing-corvus/static/js/main.53076112.chunk.js",
+    "main.js.map": "/landing-corvus/static/js/main.53076112.chunk.js.map",
+    "runtime~main.js": "/landing-corvus/static/js/runtime~main.40a8c60c.js",
+    "runtime~main.js.map": "/landing-corvus/static/js/runtime~main.40a8c60c.js.map",
+    "static/css/2.0f7a873c.chunk.css": "/landing-corvus/static/css/2.0f7a873c.chunk.css",
+    "static/js/2.93fc63b6.chunk.js": "/landing-corvus/static/js/2.93fc63b6.chunk.js",
+    "static/js/2.93fc63b6.chunk.js.map": "/landing-corvus/static/js/2.93fc63b6.chunk.js.map",
+    "index.html": "/landing-corvus/index.html",
+    "precache-manifest.f052d3b7423a3ba0a8bee53bec218ff3.js": "/landing-corvus/precache-manifest.f052d3b7423a3ba0a8bee53bec218ff3.js",
+    "service-worker.js": "/landing-corvus/service-worker.js",
+    "static/css/2.0f7a873c.chunk.css.map": "/landing-corvus/static/css/2.0f7a873c.chunk.css.map",
+    "static/css/main.4a86043f.chunk.css.map": "/landing-corvus/static/css/main.4a86043f.chunk.css.map",
+    "static/media/IMG_resp.png": "/landing-corvus/static/media/IMG_resp.b214c891.png",
+    "static/media/Integrantes.css": "/landing-corvus/static/media/fondo-integrantes.86377fca.png",
+    "static/media/programming_0.jpg": "/landing-corvus/static/media/programming_0.1bc66cf1.jpg",
+    "static/media/Header.css": "/landing-corvus/static/media/work-731198_1920.bf78a4c7.jpg"
+  }
+}
